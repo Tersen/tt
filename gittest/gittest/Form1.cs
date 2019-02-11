@@ -19,6 +19,7 @@ namespace gittest
 
         private void button1_Click(object sender, EventArgs e)
         {
+        //test1
             //zewnetrzny
             MessageBox.Show("zmiana");
         }
